@@ -26,10 +26,9 @@
 <div>
 
 
-@yield('container')
+    @yield('container')
 
 </div>
 
 </body>
 </html>
-
